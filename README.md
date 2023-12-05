@@ -10,3 +10,6 @@ Disciplica de eng de software
 <img width="815" alt="img1_eng-software" src="https://github.com/cacaiog/Projeto_final_EngSoftware/assets/99662604/d7ee58ed-9112-4614-b3a1-36994c6be0d8">
 
 
+<h3>Print do protótipo</h3>
+<img width="1309" alt="SCR-20231204-tmar" src="https://github.com/victormacaubas/pwm-food-place/assets/99662604/330dfb5e-50a2-44c5-94da-de45b125b034">
+
